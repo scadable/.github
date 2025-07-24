@@ -34,11 +34,11 @@ Whether you’re monitoring remote sensors or orchestrating complex processes, S
 
 ---
 <p align="center">
-  <a href="https://docs.scadable.io" align="center" style="display:inline-block;padding:12px 24px;background-color:#4CAF50;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">
+  <a href="https://docs.scadable.com" align="center" style="display:inline-block;padding:12px 24px;background-color:#4CAF50;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">
     📖 Read the Docs
   </a>
 </p>
 
 <p align="center">
-  Visit us at <a href="https://scadable.io">scadable.io</a> to learn more.
+  Visit us at <a href="https://scadable.com">scadable.com</a> to learn more.
 </p>
