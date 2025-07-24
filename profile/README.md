@@ -34,6 +34,9 @@ Whether you’re monitoring remote sensors or orchestrating complex processes, S
 
 ---
 
+## System Status
+![Auth Service](https://github.com/service-auth/docs/actions/workflows/cd-build.yaml/badge.svg)
+
 <p align="center">
   <a href="https://docs.scadable.io" align="center" style="display:inline-block;padding:12px 24px;background-color:#4CAF50;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">
     📖 Read the Docs
