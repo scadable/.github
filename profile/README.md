@@ -32,6 +32,13 @@ Teams end up siloed, blind to the data and controls they need to move faster.
 
 Whether you’re monitoring remote sensors or orchestrating complex processes, Scadable makes it simple.
 
+### System Arcitecture
+
+<img alt="image" src="https://github.com/user-attachments/assets/f242070b-1790-4c49-b072-aafa2fd01042" />
+
+
+
+
 ---
 <p align="center">
   <a href="https://docs.scadable.com" align="center" style="display:inline-block;padding:12px 24px;background-color:#4CAF50;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">
