@@ -20,7 +20,7 @@ This repository is organized into several key areas. Start with the Contribution
 | :--- | :--- |
 | **[📜 Contribution Guidelines](./CONTRIBUTING.md)** | **(Start Here)** How to contribute to this repository and all other Scadable projects. This covers our Git workflow, pull request process, and code review standards. |
 | **[🤝 Code of Conduct](./CODE_OF_CONDUCT.md)** | Our pledge to maintain an inclusive, respectful, and collaborative environment. All team members are expected to adhere to this code. |
-| **[💻 Development Conventions](./docs/conventions/)** | Technical standards and style guides for writing code. This includes language-specific guides, API design principles, and our testing philosophy. |
+| **[💻 Development Conventions](./docs/conventions.md)** | Technical standards and style guides for writing code. This includes language-specific guides, API design principles, and our testing philosophy. |
 | **[🏛️ Architecture](./docs/architecture/)** | High-level architectural principles and documentation for our core systems. Includes our collection of Architectural Decision Records (ADRs). |
 | **[🛠️ Tooling & Setup](./docs/tooling/)** | Guides for setting up your local development environment, using our CI/CD pipelines, and other essential developer tools. |
 
