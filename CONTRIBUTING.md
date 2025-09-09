@@ -1,4 +1,5 @@
-## 📜 Contribution Guidelines (`CONTRIBUTING.md`)
+
+## 📜 Contribution Guidelines
 
 This document outlines the step-by-step process for contributing to any project at Scadable. Following these guidelines helps us maintain a smooth workflow and high-quality codebase.
 
@@ -22,8 +23,18 @@ Once you've been assigned an issue, create a new branch from `main`.
 
 We use **Conventional Commits** to create a clear and readable commit history. You will be prompted to follow this format automatically when you commit.
 * **Commit Regularly**: Don't save all your work for one big commit at the end of the day. Make small, logical commits frequently. This makes your changes easier to review.
-* **Commit Message Format**: Use the interactive tool to select the type of change you are making.
+* **Commit Message Format**: Use the interactive tool to select the type of change you are making. Here are the standard types and their meanings:
 
+| Type | Description |
+| :--- | :--- |
+| `feat` | A new feature. |
+| `fix` | A bug fix. |
+| `docs` | Documentation only changes. |
+| `style` | Changes that do not affect the meaning of the code (e.g., white-space, formatting, missing semi-colons). |
+| `refactor` | A code change that neither fixes a bug nor adds a feature. |
+| `perf` | A code change that improves performance. |
+| `test` | Adding missing tests or correcting existing tests. |
+| `chore`| Changes to the build process, auxiliary tools, or libraries. |
 
 #### **Step 4: Create a Pull Request (PR)**
 
