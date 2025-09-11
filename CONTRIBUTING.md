@@ -60,7 +60,7 @@ We use **Conventional Commits** to create a clear and readable commit history. Y
 | `docs`     | Documentation only changes.                                                                              |
 | `style`    | Changes that do not affect the meaning of the code (e.g., white-space, formatting, missing semi-colons). |
 | `refactor` | A code change that neither fixes a bug nor adds a feature.                                               |
-| `perf`     | A code change that improves performance.                                                                 |
+| `perf`     | A code change that improves performance of an existing feature.                                                                 |
 | `test`     | Adding missing tests or correcting existing tests.                                                       |
 | `chore`    | Changes to the build process, auxiliary tools, or libraries.                                             |
 
