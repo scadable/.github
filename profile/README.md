@@ -50,7 +50,19 @@ Our platform is designed to be a flexible service layer that connects to your de
 * **Developers & Engineers** who want to build custom IoT applications and workflows without deep OT expertise.
 * **Business Leaders** looking to modernize operations, reduce CapEx, and unlock data for smarter decisions.
 
+## ✨ Our Contributors
 
+This project is made possible by the following amazing people.
+
+| Full Name | GitHub Username | GitHub Profile |
+| :--- | :--- | :--- |
+| **Ali Rahbar** | `crypto-a` | [View Profile](https://github.com/crypto-a) |
+| **Christopher Li** | `ChristopherLi05` | [View Profile](https://github.com/ChristopherLi05) |
+| **Neyl Nassr** | `Lakssito` | [View Profile](https://github.com/Lakssito) |
+| **Benjamin Gavriely** | `Benjamin-Uoft` | [View Profile](https://github.com/Benjamin-Uoft) |
+| **Matteo Gentili** | `MatteoGentili24` | [View Profile](https://github.com/MatteoGentili24) |
+| **Azaria Kelman** | `azariak` | [View Profile](https://github.com/azariak) |
+| **Daniel Rafailov** | `danielrafailov1` | [View Profile](https://github.com/danielrafailov1) |
 
 ## 🏁 Get Started
 
