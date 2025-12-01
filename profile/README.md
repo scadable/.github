@@ -58,7 +58,7 @@ This project is made possible by the following amazing people.
 | :--- | :--- | :--- |
 | **Ali Rahbar** | `crypto-a` | [View Profile](https://github.com/crypto-a) |
 | **Christopher Li** | `ChristopherLi05` | [View Profile](https://github.com/ChristopherLi05) |
-| **Neyl Nassr** | `Lakssito` | [View Profile](https://github.com/Lakssito) |
+| **Neyl Nasr** | `Lakssito` | [View Profile](https://github.com/Lakssito) |
 | **Benjamin Gavriely** | `Benjamin-Uoft` | [View Profile](https://github.com/Benjamin-Uoft) |
 | **Matteo Gentili** | `MatteoGentili24` | [View Profile](https://github.com/MatteoGentili24) |
 | **Azaria Kelman** | `azariak` | [View Profile](https://github.com/azariak) |
