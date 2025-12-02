@@ -64,6 +64,33 @@ This project is made possible by the following amazing people.
 | **Azaria Kelman** | `azariak` | [View Profile](https://github.com/azariak) |
 | **Daniel Rafailov** | `danielrafailov1` | [View Profile](https://github.com/danielrafailov1) |
 
+## 📦 Our Repositories
+
+Explore the various components that power the Scadable platform.
+
+| Repository | Description | Link |
+| :--- | :--- | :--- |
+| **library-python** | Python SDK for Scadable platform integration | [View Repository](https://github.com/scadable/library-python) |
+| **library-react** | React component library for Scadable applications | [View Repository](https://github.com/scadable/library-react) |
+| **decoder-repo** | Device data decoder utilities and protocols | [View Repository](https://github.com/scadable/decoder-repo) |
+| **web-main** | Main web application frontend | [View Repository](https://github.com/scadable/web-main) |
+| **web-dashboard** | Real-time monitoring and control dashboard | [View Repository](https://github.com/scadable/web-dashboard) |
+| **web-docs** | Platform documentation website | [View Repository](https://github.com/scadable/web-docs) |
+| **infrastructure-platform** | Infrastructure as Code for platform deployment | [View Repository](https://github.com/scadable/infrastructure-platform) |
+| **service-api** | Main API gateway service | [View Repository](https://github.com/scadable/service-api) |
+| **service-auth** | Authentication and authorization service | [View Repository](https://github.com/scadable/service-auth) |
+| **service-device** | Device management and connectivity service | [View Repository](https://github.com/scadable/service-device) |
+| **service-facility** | Facility and asset management service | [View Repository](https://github.com/scadable/service-facility) |
+| **service-mqtt** | MQTT broker service for device communication | [View Repository](https://github.com/scadable/service-mqtt) |
+| **service-orchestrator** | Service orchestration and coordination | [View Repository](https://github.com/scadable/service-orchestrator) |
+| **service-faas** | Functions as a Service runtime engine | [View Repository](https://github.com/scadable/service-faas) |
+| **worker-faas** | FaaS worker execution processes | [View Repository](https://github.com/scadable/worker-faas) |
+| **service-agentics** | AI agent service for intelligent automation | [View Repository](https://github.com/scadable/service-agentics) |
+| **service-decoder** | Data decoding and transformation service | [View Repository](https://github.com/scadable/service-decoder) |
+| **service-historian** | Time-series data storage and retrieval | [View Repository](https://github.com/scadable/service-historian) |
+| **service-live-query** | Real-time data query service | [View Repository](https://github.com/scadable/service-live-query) |
+| **service-notification** | Multi-channel notification service | [View Repository](https://github.com/scadable/service-notification) |
+
 ## 🏁 Get Started
 
 Ready to see the future of industrial control? Dive into our documentation or visit our website to learn more.
