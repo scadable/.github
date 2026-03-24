@@ -126,7 +126,7 @@ git push
 
 Go back to the dashboard, open your project, and go to the **Releases** tab. Create a new release. After it builds and deploys, your gateway will reload and start polling the Modbus simulator.
 
-Verify data is flowing by checking the **Insights** tab on the gateway. You should see outbound throughput.
+Verify data is flowing by checking the **Overview** tab on the gateway. You should see the device listed there.
 
 ## 13. Create an API Key
 
