@@ -153,3 +153,5 @@ for d in devices:
 ```
 
 You now have live Modbus data streaming through the Scadable platform into your Python application.
+
+For more details on how everything works, please go to [docs.scadable.com](https://docs.scadable.com).
