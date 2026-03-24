@@ -149,7 +149,7 @@ for gw in client.gateways.list():
 
 devices = client.gateways.devices("YOUR_GATEWAY_ID")
 for d in devices:
-    print(f"  {d.name} [{d.status}]")
+    print(f"  {d.device_id} [{'online' if d.connected else 'offline'}] - {d.protocol}")
 ```
 
 You now have live Modbus data streaming through the Scadable platform into your Python application.
