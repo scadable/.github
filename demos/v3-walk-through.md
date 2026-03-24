@@ -139,6 +139,8 @@ pip install scadable
 ```
 
 ```python
+from scadable import Scadable
+
 
 client = Scadable(api_key="sk_live_YOUR_KEY_HERE")
 
