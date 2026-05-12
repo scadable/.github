@@ -71,23 +71,15 @@ Service code (broker, control plane, dashboard, historian, orchestrator) lives i
 
 SCADABLE began as a university course project. The platform has evolved substantially since then — different architecture, different market, different product — but the original team's work seeded what SCADABLE is today, and they deserve credit for it.
 
-<!--
-Ali: fill in / confirm names below, then strip these comment markers so the
-section renders publicly. Pre-pivot list (already public on the live profile)
-is preserved here as a starting point — edit, reorder, or replace freely.
-
-### Original course-project team
-- **Ali Rahbar** — [@crypto-a](https://github.com/crypto-a)
-- **Christopher Li** — [@ChristopherLi05](https://github.com/ChristopherLi05)
-- **Neyl Nasr** — [@Lakssito](https://github.com/Lakssito)
-- **Benjamin Gavriely** — [@Benjamin-Uoft](https://github.com/Benjamin-Uoft)
-- **Matteo Gentili** — [@MatteoGentili24](https://github.com/MatteoGentili24)
-- **Azaria Kelman** — [@azariak](https://github.com/azariak)
-- **Daniel Rafailov** — [@danielrafailov1](https://github.com/danielrafailov1)
-
-### Current core team
-- **Ali Rahbar** — Founder, CTO — [@crypto-a](https://github.com/crypto-a)
--->
+| Full Name | GitHub Username | GitHub Profile |
+| :--- | :--- | :--- |
+| **Ali Rahbar** | `crypto-a` | [View Profile](https://github.com/crypto-a) |
+| **Christopher Li** | `ChristopherLi05` | [View Profile](https://github.com/ChristopherLi05) |
+| **Neyl Nasr** | `Lakssito` | [View Profile](https://github.com/Lakssito) |
+| **Benjamin Gavriely** | `Benjamin-Uoft` | [View Profile](https://github.com/Benjamin-Uoft) |
+| **Matteo Gentili** | `MatteoGentili24` | [View Profile](https://github.com/MatteoGentili24) |
+| **Azaria Kelman** | `azariak` | [View Profile](https://github.com/azariak) |
+| **Daniel Rafailov** | `danielrafailov1` | [View Profile](https://github.com/danielrafailov1) |
 
 <p align="center">
   <a href="https://scadable.com">scadable.com</a> ·
