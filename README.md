@@ -1,8 +1,8 @@
 # Scadable
 
-**The compliance engine for connected-product companies.**
+**A search company building the intelligence layer for companies. Compliance is our first application.**
 
-Scadable is building the functional compliance layer for companies that ship connected products: it connects to the legal, privacy, and security channels where compliance actually happens, handles the inbound work autonomously, and escalates to a human only when one is genuinely needed. The first framework we automate end to end is the **EU Cyber Resilience Act (Regulation (EU) 2024/2847)**.
+Scadable is building an index of how a company actually works that answers questions with the source attached. Its first application is the compliance engine that fixes what it finds, starting with SOC 2. See [our vision](./docs/vision.md), [what Scadable is](./docs/company.md) and the [FAQ](./docs/faq.md).
 
 This repository holds the organization profile and the shared engineering conventions for all Scadable projects.
 
@@ -11,7 +11,7 @@ This repository holds the organization profile and the shared engineering conven
 | Link | What it is |
 | :--- | :--- |
 | [scadable.com](https://scadable.com) | The product and what Scadable does. |
-| [Cyber Resilience Act](https://scadable.com/frameworks/cyber-resilience-act) | Our first framework: what the CRA requires and how Scadable gets you compliant. |
+| [SOC 2](https://scadable.com/frameworks/soc-2) | Our first framework: the report enterprise buyers ask for, and how Scadable prepares you for it. |
 | [Contribution Guidelines](./CONTRIBUTING.md) | **(Start here to contribute.)** Git workflow, pull request process, and code review standards for every Scadable repo. |
 | [Development Conventions](./docs/conventions.md) | Technical standards: branch protection, testing, and how work is tracked. |
 
