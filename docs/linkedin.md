@@ -1,51 +1,57 @@
 # LinkedIn
 
-The copy for SCADABLE's LinkedIn company page and the launch post, kept here so every surface says the same thing. The GitHub profile, [llms.txt](../llms.txt) and [scadable.com/llms.txt](https://scadable.com/llms.txt) use the same positioning.
+The copy for SCADABLE's LinkedIn company page and the launch post. LinkedIn is where buyers look, so this copy leads with compliance, the product SCADABLE sells. The GitHub profile and [llms.txt](../llms.txt) describe the company's longer-term direction; Ontologic appears here only as the engine that lets the product do the work.
 
 ## Company page
 
 | Field | Value |
 | :--- | :--- |
 | **Name** | SCADABLE |
-| **Tagline** (120 characters max) | Building the data and reasoning layer of the future. |
+| **Tagline** (120 characters max) | The compliance engine that fixes what it finds. |
 | **Website** | https://scadable.com |
 | **Industry** | Software Development |
 | **Company size** | 2-10 employees |
 
 ### About (2,000 characters max)
 
-SCADABLE is building the data and reasoning layer of the future.
+SCADABLE is the compliance engine that fixes what it finds.
 
-Every company runs on questions it cannot answer quickly. Who can reach production. What was promised to a customer, and whether it was kept. Whether a control actually ran last quarter. The answers exist, spread across the tools a company works in every day. Finding them, and proving where they came from, is the problem we work on.
+Most compliance tools connect to your systems, run their checks and hand you a list of problems. The list is where their work ends. It is where ours starts.
 
-Ontologic, our knowledge engine, builds a typed, provenance-backed model of a company's world: the people, systems, documents and events, how they connect, and the exact evidence behind every claim. It answers with the source attached, computes exact counts in code, and says so when the evidence does not support an answer instead of guessing.
+SCADABLE gets software and AI companies to their SOC 2 report without turning their engineers into a compliance team:
 
-Compliance is our first application, because an auditor is the strictest reader there is. SCADABLE is the compliance engine that fixes what it finds. It identifies what does not meet the standard across a company's code, cloud and identity systems, fixes it, reports with evidence, and prepares the company for an independent audit firm, starting with SOC 2.
+- Identifies what does not meet the standard across your code, cloud and identity systems, checked every hour.
+- Fixes it: a pull request you approve, a setting changed with your sign-off, or a short guide sent to the one person who has to act.
+- Writes your policies from how your company really works, and keeps every result, approval and document as evidence that cannot be quietly edited.
+- Runs the recurring work with you: access reviews, vendor reviews, risk assessments and the reviews an auditor asks to see.
+- Prepares you for an independent audit firm, which examines the controls and issues the report. We do the preparation and the back and forth; the auditor stays independent.
 
-We are looking for engineers who want the hard version of search, design partners preparing for their first SOC 2 report, and audit firms who want clients that arrive prepared.
+Companies do this to win deals: to pass a customer's security review and get the report their buyers ask for.
 
-Learn more at scadable.com and github.com/scadable.
+Underneath it is Ontologic, our knowledge engine, which keeps a sourced model of how your company works, so every answer we give an auditor points to the evidence behind it.
+
+Learn more at scadable.com.
 
 ### Specialties
 
-Knowledge graphs, Ontology, Search, Information retrieval, Reasoning, Provenance, Compliance automation, SOC 2, Audit readiness, Security
+SOC 2, Compliance automation, Audit readiness, Security reviews, Remediation, Evidence collection, Access reviews, Vendor risk management, Policy management, Trust centers
 
 ## Launch post (from Ali)
 
-Put the links in the first comment, not the post: https://github.com/scadable and https://github.com/scadable/.github/blob/main/docs/ontologic.md
+Put the link in the first comment, not the post: https://scadable.com
 
-> We're building the data and reasoning layer of the future.
+> Most compliance tools hand you a list of problems and call it done.
 >
-> For the last few months we've been heads down on Ontologic, the engine underneath SCADABLE.
+> We think the list is where the work starts, not where it ends.
 >
-> The idea is simple to say. Every company runs on questions it can't answer fast. Who can reach production. What did we promise this customer. Did that control actually run last quarter. The answers exist, they're just spread across Slack, Jira, email and a dozen other tools.
+> So that's what we built at SCADABLE. A compliance engine that fixes what it finds.
 >
-> Ontologic builds a model of that world. People, systems, documents, events, how they connect, and the exact source behind every claim. You ask it something and it answers with the evidence attached. If the evidence isn't there it says so instead of guessing.
+> It checks your code, cloud and identity every hour against what SOC 2 actually asks for. When something fails you don't get a ticket, you get the fix. A pull request you approve, a setting changed with your sign-off, or a short guide sent to the one person who has to do something.
 >
-> We measure every stage separately. On a fresh test it had never seen (2,000 documents, 1,416 questions) the right evidence reached the model 99.4% of the time for literal questions. Paraphrased questions are at 79.1%, and that's the part we're working hardest on. Exact counts were right 60 out of 60.
+> Then the boring part that eats weeks. Policies written from how your company actually runs, access reviews, vendor reviews, all the evidence an auditor wants to see, kept in one place and tied back to where it came from.
 >
-> The target is 99%+ at every stage, and it has to hold as a company grows to hundreds of thousands of documents.
+> The audit itself stays with an independent firm. We do the prep and the back and forth so you show up ready.
 >
-> We're starting with compliance because an auditor is the strictest reader there is. If our answers hold up in an audit they hold up anywhere.
+> Most teams we talk to aren't doing SOC 2 because they love it. A customer asked for the report before they'd sign. That's the problem we want to take off their plate.
 >
-> If you want to work on search where "mostly right" is a failure, or you're a startup going through your first SOC 2, would really love to chat.
+> We're onboarding our first SOC 2 customers this month. If you're a startup whose buyer just asked for a SOC 2 report, would really love to chat.
