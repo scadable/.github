@@ -8,6 +8,7 @@
 | :--- | :--- |
 | **Name** | Scadable (written SCADABLE on GitHub) |
 | **What it builds** | The intelligence layer for companies: search that answers questions about how a company works, with the source attached |
+| **Knowledge engine** | [Ontologic](./ontologic.md), a typed, provenance-backed model of a company's world, being built underneath Scadable's products |
 | **First application** | A compliance engine that identifies, fixes, reports and prepares for certification |
 | **First framework** | SOC 2 |
 | **Who it is for today** | Software and AI companies whose enterprise customers ask for a SOC 2 report before they sign |
@@ -30,6 +31,7 @@ Most compliance tools connect, monitor and flag. The list of problems is where t
 
 ## Related
 
+- [Ontologic: how the knowledge engine works](./ontologic.md)
 - [Vision: the intelligence layer](./vision.md)
 - [Frequently asked questions](./faq.md)
 - [Security policy](../SECURITY.md)

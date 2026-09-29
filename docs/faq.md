@@ -8,6 +8,14 @@ Scadable is a search company building the intelligence layer for companies, star
 
 It is an index of how a company actually works, its systems, documents and decisions, that answers questions with the source attached. Every answer is correct, complete and cited, or the system says it does not know. Compliance is the first place Scadable applies it.
 
+## What is Ontologic?
+
+Ontologic is the knowledge engine Scadable is building underneath its products. It turns the tools a company works in into a typed, provenance-backed model of that company's world, computes exact sets and counts in code, and answers with the evidence attached. See [how Ontologic works](./ontologic.md).
+
+## How reliable is Ontologic today?
+
+On a fresh held-out test of 2,000 documents and 1,416 questions, all required evidence reached the model for 99.4% of literal questions and 79.1% of paraphrased ones, and exact counts were right on 60 of 60. The target is about 99% or better at every stage. Details in [how Ontologic works](./ontologic.md).
+
 ## Why does a search company start with compliance?
 
 Because an auditor is the strictest reader a search system can have. An auditor checks every claim and asks for the source of every answer. Answers that hold up in an audit hold up anywhere, and compliance is work companies already need done today.

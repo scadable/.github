@@ -1,12 +1,13 @@
 # Scadable
 
-> Scadable is a search company building the intelligence layer for companies: an index of how a company works that answers questions with the source attached, correct and cited or it says it does not know. Its first application is a compliance engine that fixes what it finds, starting with SOC 2.
+> Scadable is a search company building the intelligence layer for companies: an index of how a company works that answers questions with the source attached, correct and cited or it says it does not know, built on Ontologic, its knowledge engine. Its first application is a compliance engine that fixes what it finds, starting with SOC 2.
 
 Scadable identifies what does not meet a standard across a company's code, cloud and identity systems, fixes it (a pull request the company approves, a setting changed with sign-off, or a guide to the person who has to act), reports with evidence, and prepares the company for an independent audit firm. Scadable does not issue audit reports; the audit firm does. Founders: Ali Rahbar (Founder and CEO) and Hossein Molavi (Co-founder and CTO). Backed by Velocity, the University of Waterloo startup incubator.
 
 ## Company
 
 - [What Scadable is](https://raw.githubusercontent.com/scadable/.github/main/docs/company.md): the company in one page, with founders, focus and how it differs from compliance monitoring tools.
+- [Ontologic: the knowledge engine](https://raw.githubusercontent.com/scadable/.github/main/docs/ontologic.md): what Ontologic keeps, how it answers, how reliable it is today, and the reliability target.
 - [Vision: the intelligence layer](https://raw.githubusercontent.com/scadable/.github/main/docs/vision.md): why Scadable is a search company and why it starts with compliance.
 - [Frequently asked questions](https://raw.githubusercontent.com/scadable/.github/main/docs/faq.md): direct answers about what Scadable does, who it is for and how it works with auditors.
 
