@@ -14,6 +14,8 @@ Every company runs on questions it cannot answer quickly. Who can reach producti
 
 **Scadable is building the intelligence layer for companies:** an index of how a company actually works that answers questions with the source attached. Our bar is simple to say and hard to reach. An answer is correct, complete and cited, or the system says it does not know.
 
+Underneath it is **[Ontologic](https://github.com/scadable/.github/blob/main/docs/ontologic.md)**, the knowledge engine we are building: a typed, provenance-backed model of a company's world, with exact counts computed in code and the original evidence behind every claim.
+
 ## Why compliance first
 
 Compliance is search under the strictest reader there is. An auditor checks every claim, asks for the source of every answer, and does not accept "probably". If our answers hold up in an audit, they hold up anywhere.
@@ -31,7 +33,7 @@ Companies do this to win deals, starting with the SOC 2 report their buyers ask 
 
 The engine we built for compliance answers questions an auditor asks. The same layer answers the questions everyone else in a company asks, for the people and the agents working there. Compliance is where it earns trust. The intelligence layer is what we are building.
 
-Read more: [our vision](https://github.com/scadable/.github/blob/main/docs/vision.md) · [what Scadable is](https://github.com/scadable/.github/blob/main/docs/company.md) · [FAQ](https://github.com/scadable/.github/blob/main/docs/faq.md)
+Read more: [our vision](https://github.com/scadable/.github/blob/main/docs/vision.md) · [how Ontologic works](https://github.com/scadable/.github/blob/main/docs/ontologic.md) · [what Scadable is](https://github.com/scadable/.github/blob/main/docs/company.md) · [FAQ](https://github.com/scadable/.github/blob/main/docs/faq.md)
 
 ## What we need
 

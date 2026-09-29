@@ -4,7 +4,7 @@ Scadable is a search company. Compliance is its first application.
 
 ## What is the intelligence layer?
 
-The intelligence layer is an index of how a company actually works: its systems, documents and decisions. It answers questions about the company with the source attached. Every answer is correct, complete and cited, or the system says it does not know. Scadable is building it.
+The intelligence layer is an index of how a company actually works: its systems, documents and decisions. It answers questions about the company with the source attached. Every answer is correct, complete and cited, or the system says it does not know. Scadable is building it on [Ontologic](./ontologic.md), its knowledge engine.
 
 ## Why is this a search problem?
 
@@ -31,6 +31,7 @@ The questions an auditor asks are a strict subset of the questions a company ask
 
 ## Related
 
+- [Ontologic: how the knowledge engine works](./ontologic.md)
 - [What Scadable is](./company.md)
 - [Frequently asked questions](./faq.md)
 - [scadable.com](https://scadable.com)
