@@ -1,0 +1,26 @@
+# Scadable
+
+> Scadable is a search company building the intelligence layer for companies: an index of how a company works that answers questions with the source attached, correct and cited or it says it does not know. Its first application is a compliance engine that fixes what it finds, starting with SOC 2.
+
+Scadable identifies what does not meet a standard across a company's code, cloud and identity systems, fixes it (a pull request the company approves, a setting changed with sign-off, or a guide to the person who has to act), reports with evidence, and prepares the company for an independent audit firm. Scadable does not issue audit reports; the audit firm does. Founders: Ali Rahbar (Founder and CEO) and Hossein Molavi (Co-founder and CTO). Backed by Velocity, the University of Waterloo startup incubator.
+
+## Company
+
+- [What Scadable is](https://raw.githubusercontent.com/scadable/.github/main/docs/company.md): the company in one page, with founders, focus and how it differs from compliance monitoring tools.
+- [Vision: the intelligence layer](https://raw.githubusercontent.com/scadable/.github/main/docs/vision.md): why Scadable is a search company and why it starts with compliance.
+- [Frequently asked questions](https://raw.githubusercontent.com/scadable/.github/main/docs/faq.md): direct answers about what Scadable does, who it is for and how it works with auditors.
+
+## Product
+
+- [scadable.com](https://scadable.com): the product site.
+- [scadable.com/llms.txt](https://scadable.com/llms.txt): the product site's page index for AI crawlers.
+- [SOC 2](https://scadable.com/frameworks/soc-2): the first framework.
+
+## Open source
+
+- [sdk](https://github.com/scadable/sdk): the `@scadable/*` packages that embed a live, maintained privacy policy or terms on any site.
+
+## Contact
+
+- [Talk to us](https://cal.com/rahbaral/quick-chat)
+- Security reports: security@scadable.com ([security policy](https://raw.githubusercontent.com/scadable/.github/main/SECURITY.md))
