@@ -1,6 +1,5 @@
 <h1 align="center">SCADABLE</h1>
-<p align="center"><strong>Building the data and reasoning layer of the future.</strong></p>
-<p align="center"><em>Ontologic is the knowledge engine. Compliance is our first application.</em></p>
+<p align="center">Building the data and reasoning layer of the future.</p>
 
 <p align="center">
   <a href="https://scadable.com">scadable.com</a> ·
