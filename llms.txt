@@ -1,27 +1,41 @@
 # Scadable
 
-> Scadable is a search company building the intelligence layer for companies: an index of how a company works that answers questions with the source attached, correct and cited or it says it does not know, built on Ontologic, its knowledge engine. Its first application is a compliance engine that fixes what it finds, starting with SOC 2.
+> Scadable is building the data and reasoning layer of the future. Its knowledge engine, Ontologic, builds a typed, provenance-backed model of a company's world and answers questions with the evidence attached, correct and cited or it says it does not know. Compliance is the first application: a compliance engine that fixes what it finds, starting with SOC 2.
 
-Scadable identifies what does not meet a standard across a company's code, cloud and identity systems, fixes it (a pull request the company approves, a setting changed with sign-off, or a guide to the person who has to act), reports with evidence, and prepares the company for an independent audit firm. Scadable does not issue audit reports; the audit firm does. Founders: Ali Rahbar (Founder and CEO) and Hossein Molavi (Co-founder and CTO). Backed by Velocity, the University of Waterloo startup incubator.
+Scadable identifies what does not meet a standard across a company's code, cloud and identity systems, fixes it (a pull request the company approves, a setting changed with sign-off, or a short guide to the person who has to act), reports with evidence, and prepares the company for an independent audit firm. Scadable does not issue audit reports; the audit firm does. Founders: Ali Rahbar (Founder and CEO) and Hossein Molavi (Co-founder and CTO). Backed by Velocity, the University of Waterloo startup incubator.
+
+## The system: Ontologic
+
+- [How Ontologic works](https://raw.githubusercontent.com/scadable/.github/main/docs/ontologic.md): what an ontology is, what Ontologic keeps (typed entities and relationships, timelines, trust levels, permissions, exact sets and counts, provenance), how it answers a question, measured reliability, and the reliability target.
+- Measured on a fresh held-out test of 2,000 documents and 1,416 questions: all required evidence reached the model for 99.4% of literal and 79.1% of paraphrased questions; final answers correct for 95.3% and 69.4%; exact sets and counts right on 60 of 60. Not directly comparable with published search and memory benchmarks, which use different datasets and scoring.
+- [ontologichq/kit](https://github.com/ontologichq/kit): Ontologic's gRPC API.
+- [ontologichq/cli](https://github.com/ontologichq/cli): a command line client for Ontologic.
 
 ## Company
 
-- [What Scadable is](https://raw.githubusercontent.com/scadable/.github/main/docs/company.md): the company in one page, with founders, focus and how it differs from compliance monitoring tools.
-- [Ontologic: the knowledge engine](https://raw.githubusercontent.com/scadable/.github/main/docs/ontologic.md): what Ontologic keeps, how it answers, how reliable it is today, and the reliability target.
-- [Vision: the intelligence layer](https://raw.githubusercontent.com/scadable/.github/main/docs/vision.md): why Scadable is a search company and why it starts with compliance.
-- [Frequently asked questions](https://raw.githubusercontent.com/scadable/.github/main/docs/faq.md): direct answers about what Scadable does, who it is for and how it works with auditors.
+- [What Scadable is](https://raw.githubusercontent.com/scadable/.github/main/docs/company.md): the company on one page.
+- [Vision](https://raw.githubusercontent.com/scadable/.github/main/docs/vision.md): why Scadable builds a data and reasoning layer and why it starts with compliance.
+- [Frequently asked questions](https://raw.githubusercontent.com/scadable/.github/main/docs/faq.md): direct answers about what Scadable does, who it is for, how reliable Ontologic is and how Scadable works with auditors.
+- [GitHub organization profile](https://github.com/scadable)
 
 ## Product
 
 - [scadable.com](https://scadable.com): the product site.
-- [scadable.com/llms.txt](https://scadable.com/llms.txt): the product site's page index for AI crawlers.
+- [scadable.com/llms.txt](https://scadable.com/llms.txt): the product site's index for AI crawlers, including every framework page and guide.
 - [SOC 2](https://scadable.com/frameworks/soc-2): the first framework.
+- [Frameworks](https://scadable.com/frameworks): every framework Scadable supports.
+- [Integrations](https://scadable.com/integrations): the systems Scadable connects to.
+- [Security](https://scadable.com/security): how to report a vulnerability and how Scadable protects its own systems.
+- [Regions](https://scadable.com/regions): where workspaces are hosted.
+- [Pricing](https://scadable.com/pricing)
+- [Blog](https://scadable.com/blog): practical compliance guides.
 
 ## Open source
 
-- [sdk](https://github.com/scadable/sdk): the `@scadable/*` packages that embed a live, maintained privacy policy or terms on any site.
+- [scadable/sdk](https://github.com/scadable/sdk): the `@scadable/*` packages that embed a live, maintained privacy policy or terms on any site.
 
 ## Contact
 
 - [Talk to us](https://cal.com/rahbaral/quick-chat)
+- Email: hello@scadable.com
 - Security reports: security@scadable.com ([security policy](https://raw.githubusercontent.com/scadable/.github/main/SECURITY.md))
