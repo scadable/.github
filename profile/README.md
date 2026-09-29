@@ -1,26 +1,48 @@
 <h1 align="center">SCADABLE</h1>
-<p align="center"><em>A search company. Compliance is our first application.</em></p>
+<p align="center"><strong>Building the data and reasoning layer of the future.</strong></p>
+<p align="center"><em>Ontologic is the knowledge engine. Compliance is our first application.</em></p>
 
 <p align="center">
   <a href="https://scadable.com">scadable.com</a> ·
-  <a href="https://github.com/scadable/.github/blob/main/docs/vision.md">Vision</a> ·
+  <a href="https://github.com/scadable/.github/blob/main/docs/ontologic.md">How Ontologic works</a> ·
   <a href="https://github.com/scadable/.github/blob/main/docs/faq.md">FAQ</a> ·
   <a href="https://cal.com/rahbaral/quick-chat">Talk to us</a>
 </p>
 
 ---
 
-Every company runs on questions it cannot answer quickly. Who can reach production. Which change broke the build last Tuesday. What we promised this customer, and whether we kept it. The answers exist, spread across the systems, documents and decisions a company makes every day. Finding them, and proving where they came from, is a search problem.
+Every company runs on questions it cannot answer quickly. Who can reach production. Which change broke the build last Tuesday. What we promised this customer, and whether we kept it. The answers exist, spread across the tools a company works in every day. Finding them, and proving where they came from, is a search problem.
 
-**Scadable is building the intelligence layer for companies:** an index of how a company actually works that answers questions with the source attached. Our bar is simple to say and hard to reach. An answer is correct, complete and cited, or the system says it does not know.
+## Ontologic
 
-Underneath it is **[Ontologic](https://github.com/scadable/.github/blob/main/docs/ontologic.md)**, the knowledge engine we are building: a typed, provenance-backed model of a company's world, with exact counts computed in code and the original evidence behind every claim.
+An ontology is a structured representation of a world: the people, companies, systems, documents, events and facts in it, what type each thing is, how things relate, and what evidence supports each relationship.
+
+**Ontologic builds that model of a company's world** from the tools it already works in, such as Slack, Jira, email and Drive. Instead of treating everything as text for a language model to search, it keeps:
+
+- **Typed entities and relationships:** people, teams, systems, documents, events and how they connect.
+- **Records and timelines:** what happened, when, and in what order.
+- **Trust levels and permissions:** how well supported each fact is, and who may see which source.
+- **Exact sets and counts,** computed in code, never estimated by a model.
+- **Provenance:** the source, and the exact passage, behind every claim.
+
+When a question arrives, Ontologic activates the relevant part of that model, retrieves the evidence, computes anything that should be computed exactly, and hands the language model a small, high-signal context to reason from. The answer cites its sources. When the evidence does not support an answer, it says so instead of guessing.
+
+## How reliable it is
+
+We measure every stage separately instead of hiding behind one score. On a fresh held-out test of 2,000 documents and 1,416 questions the system had never seen:
+
+| Stage | Literal questions | Paraphrased questions |
+| :--- | ---: | ---: |
+| All required evidence reached the model | 99.4% | 79.1% |
+| Final answer correct | 95.3% | 69.4% |
+
+Exact sets and counts were right on 60 of 60 fresh questions. Paraphrased questions are the current bottleneck and where we are working hardest.
+
+**The target:** about 99% or better availability of the evidence an answer depends on, about 99% precision on entities and links, exact computations or an explicit "incomplete", and 99.9%-class confidence before anything happens automatically, holding as a company grows from thousands to hundreds of thousands of documents. We do not claim to beat every system today; other benchmarks use different datasets and scoring. We claim a stronger contract than ordinary retrieval: know what evidence exists, compute exact things in code, preserve provenance, expose uncertainty, and refuse to pretend. [Full numbers and method](https://github.com/scadable/.github/blob/main/docs/ontologic.md).
 
 ## Why compliance first
 
-Compliance is search under the strictest reader there is. An auditor checks every claim, asks for the source of every answer, and does not accept "probably". If our answers hold up in an audit, they hold up anywhere.
-
-It is also work companies already need done. Scadable is the compliance engine that fixes what it finds:
+Compliance is the strictest reader a knowledge engine can have. An auditor checks every claim, asks where each answer came from, and does not accept "probably". If our answers hold up in an audit, they hold up anywhere. It is also work companies already need done, so Scadable is the compliance engine that fixes what it finds:
 
 - **Identifies** what does not meet the standard across your code, cloud and identity, every hour.
 - **Fixes** it, as a pull request you approve, a setting changed with your sign-off, or a short guide to the one person who has to act.
@@ -31,14 +53,14 @@ Companies do this to win deals, starting with the SOC 2 report their buyers ask 
 
 ## Where we are going
 
-The engine we built for compliance answers questions an auditor asks. The same layer answers the questions everyone else in a company asks, for the people and the agents working there. Compliance is where it earns trust. The intelligence layer is what we are building.
+Compliance proves the architecture where trust matters immediately. If Ontologic can reliably keep a company's state and reason over it, it becomes the trusted data and reasoning layer companies build their own workflows and applications on, for the people and the agents working there.
 
-Read more: [our vision](https://github.com/scadable/.github/blob/main/docs/vision.md) · [how Ontologic works](https://github.com/scadable/.github/blob/main/docs/ontologic.md) · [what Scadable is](https://github.com/scadable/.github/blob/main/docs/company.md) · [FAQ](https://github.com/scadable/.github/blob/main/docs/faq.md)
+Read more: [how Ontologic works](https://github.com/scadable/.github/blob/main/docs/ontologic.md) · [our vision](https://github.com/scadable/.github/blob/main/docs/vision.md) · [what Scadable is](https://github.com/scadable/.github/blob/main/docs/company.md) · [FAQ](https://github.com/scadable/.github/blob/main/docs/faq.md)
 
 ## What we need
 
-- **Design partners.** Software and AI companies preparing for their first SOC 2 report who want the work done, not a dashboard.
 - **Engineers who want the hard version of search.** Retrieval, ranking and extraction where "mostly right" is a failure, and knowing when not to answer is part of the job.
+- **Design partners.** Software and AI companies preparing for their first SOC 2 report who want the work done, not a dashboard.
 - **Audit firms** who want clients that arrive prepared.
 
 If that is you, [talk to us](https://cal.com/rahbaral/quick-chat).
@@ -47,6 +69,8 @@ If that is you, [talk to us](https://cal.com/rahbaral/quick-chat).
 
 | Repository | What it is |
 | :--- | :--- |
+| [**ontologichq/kit**](https://github.com/ontologichq/kit) | Ontologic's gRPC API: the contract every client uses to ask questions and import sources. |
+| [**ontologichq/cli**](https://github.com/ontologichq/cli) | A command line client for Ontologic. |
 | [**sdk**](https://github.com/scadable/sdk) | The `@scadable/*` packages that put a live, maintained legal document (privacy policy, terms) on any site. Our own privacy policy is served through it. |
 
 ## Security
