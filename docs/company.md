@@ -20,7 +20,7 @@
 
 ## What the compliance engine does
 
-- **Identifies.** Checks run every hour against a company's code, cloud and identity systems, such as GitHub, Google Cloud, Google Workspace and Slack.
+- **Identifies.** Checks run once a day against a company's code, cloud and identity systems, such as GitHub, Google Cloud, Google Workspace and Slack.
 - **Fixes.** A finding becomes a pull request the company approves, a setting changed with its sign-off, or a short guide sent to the person who has to act.
 - **Reports.** Policies are written from how the company really works and approved by the company. Every result, approval and document is kept as evidence that cannot be quietly edited.
 - **Certifies.** An independent audit firm examines the controls and issues the report. Scadable prepares the evidence and handles the back and forth; the auditor stays independent.

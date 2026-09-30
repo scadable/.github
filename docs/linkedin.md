@@ -20,7 +20,7 @@ Most compliance tools connect to your systems, run their checks and hand you a l
 
 SCADABLE gets software and AI companies to their SOC 2 report without turning their engineers into a compliance team:
 
-- Identifies what does not meet the standard across your code, cloud and identity systems, checked every hour.
+- Identifies what does not meet the standard across your code, cloud and identity systems, checked once a day.
 - Fixes it: a pull request you approve, a setting changed with your sign-off, or a short guide sent to the one person who has to act.
 - Writes your policies from how your company really works, and keeps every result, approval and document as evidence that cannot be quietly edited.
 - Runs the recurring work with you: access reviews, vendor reviews, risk assessments and the reviews an auditor asks to see.
@@ -46,7 +46,7 @@ Put the link in the first comment, not the post: https://scadable.com
 >
 > So that's what we built at SCADABLE. A compliance engine that fixes what it finds.
 >
-> It checks your code, cloud and identity every hour against what SOC 2 actually asks for. When something fails you don't get a ticket, you get the fix. A pull request you approve, a setting changed with your sign-off, or a short guide sent to the one person who has to do something.
+> It checks your code, cloud and identity once a day against what SOC 2 actually asks for. When something fails you don't get a ticket, you get the fix. A pull request you approve, a setting changed with your sign-off, or a short guide sent to the one person who has to do something.
 >
 > Then the boring part that eats weeks. Policies written from how your company actually runs, access reviews, vendor reviews, all the evidence an auditor wants to see, kept in one place and tied back to where it came from.
 >

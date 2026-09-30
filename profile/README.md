@@ -43,7 +43,7 @@ Exact sets and counts were right on 60 of 60 fresh questions. Paraphrased questi
 
 Compliance is the strictest reader a knowledge engine can have. An auditor checks every claim, asks where each answer came from, and does not accept "probably". If our answers hold up in an audit, they hold up anywhere. It is also work companies already need done, so Scadable is the compliance engine that fixes what it finds:
 
-- **Identifies** what does not meet the standard across your code, cloud and identity, every hour.
+- **Identifies** what does not meet the standard across your code, cloud and identity, once a day.
 - **Fixes** it, as a pull request you approve, a setting changed with your sign-off, or a short guide to the one person who has to act.
 - **Reports**, with policies written from how your company really works and every result kept as evidence.
 - **Certifies**, through an independent audit firm. We prepare everything; the auditor stays independent.
